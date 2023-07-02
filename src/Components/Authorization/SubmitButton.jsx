@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
 		borderRadius: 100,
 	},
 
-	pressed: { backgroundColor: "rgba(255, 108, 0, 0.5)" },
+	pressed: { backgroundColor: "#ff6c00" },
 
 	buttonText: {
 		fontFamily: "Roboto-Regular",

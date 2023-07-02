@@ -37,7 +37,6 @@ const styles = StyleSheet.create({
 		fontSize: 16,
 		lineHeight: 19,
 
-		borderStyle: "solid",
 		borderWidth: 1,
 		borderRadius: 8,
 		color: "#212121",
@@ -52,7 +51,7 @@ const styles = StyleSheet.create({
 	showPassword: {
 		container: {
 			position: "absolute",
-			top: 15,
+			top: 16,
 			right: 16,
 			widht: 72,
 		},
